@@ -1,0 +1,50 @@
+{
+    "solarpumps": [
+      {
+        "id": 1,
+        "name": "pump1",
+        "price": 1299
+      },
+      {
+        "id": 2,
+        "name": "pump2",
+        "price": 1499
+      },
+      {
+        "id": 3,
+        "name": "pump3",
+        "price": 999
+      },
+      {
+        "id": 4,
+        "name": "pump4",
+        "price": 1999
+      }
+    ],
+    "cable": [
+      {
+        "id": 5,
+        "volt": "24V",
+        "price": {
+          "short":4.8,
+          "long":6
+        }
+      },
+      {
+        "id": 6,
+        "volt": "48V",
+        "price": {
+          "short":4.8,
+          "long":6
+        }
+      },
+      {
+        "id": 7,
+        "volt": "72V",
+        "price": {
+          "short":4.8,
+          "long":6
+        }
+      }
+    ]
+  }
