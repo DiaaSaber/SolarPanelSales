@@ -2,8 +2,12 @@
 Job application task
 
 
+
 to run this project after cloning:
 
-cd src\n
-npm install\n
+
+cd src
+
+npm install
+
 npm start
